@@ -6,7 +6,7 @@ Forward-thinking **Computer Engineering student** specializing in **Artificial I
 - 🎓 **Education:** B.S. in Computer Engineering (GPA: 3.46/4.00) @Kütahya Dumlupınar University
 - 📍 **Location:** Türkiye
 - 🤖 **Specialization:** AI & Machine Learning (LLMs, Prompt Engineering), Cloud & Backend Development
-- 🏢 **Leadership:** Content and Publication Committee Leader & Ex-Vice Chair of Sponsorship @Huawei Student Developers (HSD)
+- 🏢 **Leadership:** Content and Publication Committee Leader @Huawei Student Developers (HSD)
 - 🌐 **Languages:** Turkish (Native), English (Intermediate - B1)
 
 ---
