@@ -67,10 +67,12 @@ Forward-thinking **Computer Engineering student** specializing in **Artificial I
 ---
 
 ### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats-ten-sage-41.vercel.app/api?username=SUNAYILDIZ&show_icons=true&theme=tokyonight" alt="Suna's GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUNAYILDIZ&show_icons=true&theme=tokyonight&locale=en" alt="Suna's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNAYILDIZ&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="47%" />
+  <img src="https://github-readme-stats-ten-sage-41.vercel.app/api/top-langs/?username=SUNAYILDIZ&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
