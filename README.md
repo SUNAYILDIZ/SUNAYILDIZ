@@ -37,13 +37,11 @@ I am a dedicated **Computer Engineering Student** and a **Core Team Member at Hu
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUNAYILDIZ&show_icons=true&theme=tokyonight" alt="Suna's Stats" />
-</p>
+### 📊 GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNAYILDIZ&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Suna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUNAYILDIZ&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUNAYILDIZ&layout=compact&theme=dark)
 
 ---
 
