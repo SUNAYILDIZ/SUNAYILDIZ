@@ -59,8 +59,8 @@ Forward-thinking **Computer Engineering student** specializing in **Artificial I
 
 ### 📜 Certifications & Honors
 
-- 🏆 **HCCDA-Tech Essentials** – Huawei Cloud Türkiye[cite: 1]
-- 🛡️ **Introduction to Cybersecurity** – Cisco[cite: 1]
+- 🏆 **HCCDA-Tech Essentials** – Huawei Cloud Türkiye
+- 🛡️ **Introduction to Cybersecurity** – Cisco
 - 🌟 **Future Talent 101 Module Certificate** – UP School & Young Guru Academy (YGA)
 - 🎓 **Teknolojide Fırsat Eşitliği Başarı Sertifikası** – BAUGO
 
